@@ -1,10 +1,6 @@
 import java.sql.*;
 
-/**
- * 
- * @author www.luv2code.com
- *
- */
+
 public class jdbc_Delete {
 
 	public static void main(String[] args) throws SQLException {
