@@ -5,7 +5,7 @@ import java.sql.*;
  * @author www.luv2code.com
  *
  */
-public class JdbcDemo {
+public class Jdbc_Select {
 
 	public static void main(String[] args) throws SQLException {
 
